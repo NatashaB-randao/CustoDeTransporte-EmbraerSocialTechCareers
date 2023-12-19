@@ -22,7 +22,7 @@ O Grupo 6 utilizará uma abordagem metodológica que engloba pesquisa documental
 
 ### Contato
 Para mais informações sobre este projeto, entre em contato com o Grupo 6:
- - [@NatashaB-randao](https://github.com/NatashaB-randao);
+ - [@NatashaB-randao](https://github.com/NatashaB-randao)
  - [@ThamirisNeves](https://github.com/ThamirisNeves)
  - [@Tahiine](https://github.com/Tahiine)
 
