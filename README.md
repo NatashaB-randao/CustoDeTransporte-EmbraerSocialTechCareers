@@ -11,9 +11,6 @@ O Embraer Social Tech Careers visa impulsionar carreiras em tecnologia, proporci
 ### Desafio 
 O desafio proposto para o Projeto Integrador do Grupo 6 consiste em realizar uma análise aprofundada dos custos de transporte na Embraer, focando na área de logística e supply chain. Este estudo abordará os custos associados ao transporte de mercadorias, englobando modalidades como transporte terrestre, marítimo e aéreo.
 
-### Objetivo
-O objetivo principal é compreender e avaliar os custos logísticos associados ao transporte de insumos e produtos na cadeia de suprimentos da Embraer. A análise se estenderá desde a origem dos materiais até a entrega final dos produtos, considerando os diversos modos de transporte envolvidos.
-
 ### Metodologia
 O Grupo 6 utilizará uma abordagem metodológica que engloba pesquisa documental, entrevistas com profissionais da área logística da Embraer e análise de dados históricos de transporte. A coleta de informações se concentrará nos seguintes pontos:
  - Identificação de Custos: Levantamento detalhado dos custos associados ao transporte;
@@ -25,9 +22,9 @@ O Grupo 6 utilizará uma abordagem metodológica que engloba pesquisa documental
 
 ### Contato
 Para mais informações sobre este projeto, entre em contato com o Grupo 6:
- - @NatashaB-randao
- - @Tahiine
- - @ThamirisNeves
+ - [@NatashaB-randao](https://github.com/NatashaB-randao);
+ - [@ThamirisNeves](https://github.com/ThamirisNeves)
+ - [@Tahiine](https://github.com/Tahiine)
 
 
 Nota: Este projeto é parte integrante do curso Data Bootcamp - Embraer Social Tech Careers e tem como objetivo acadêmico a aplicação prática dos conhecimentos adquiridos ao longo do período do bootcamp.
