@@ -1,15 +1,18 @@
 # Custo De Transporte - Embraer Social Tech Careers ✈️
 
 Bem-vindo(a) ao repositório do Embraer Social Tech Careers, um programa inovador de aceleração de carreiras em tecnologia dedicado exclusivamente às mulheres neste ano. Desenvolvido pela Embraer, o programa tem como objetivo criar um ambiente inclusivo, promovendo a diversidade de pensamento e o diálogo construtivo.
+
 ---
 ## Sobre o Programa
 
 O Embraer Social Tech Careers visa impulsionar carreiras em tecnologia, proporcionando oportunidades valiosas para mulheres que desejam se destacar neste campo dinâmico. A diversidade é considerada essencial para a inovação, e ao concentrar esforços exclusivamente em mulheres, busca-se fortalecer a presença feminina na indústria de tecnologia.
+
 ---
 # Tema: Análise dos Custos de Transporte na Embraer 
 
 ### Desafio 
 O desafio proposto para o Projeto Integrador do Grupo 6 consiste em realizar uma análise aprofundada dos custos de transporte na Embraer, focando na área de logística e supply chain. Este estudo abordará os custos associados ao transporte de mercadorias, podendo englobando modalidades como transporte terrestre, marítimo e aéreo.
+
 ---
 ### Metodologia
 O Grupo 6 utilizará uma abordagem metodológica que engloba pesquisa documental, entrevistas com profissionais da área logística da Embraer e análise de dados históricos de transporte. A coleta de informações se concentrará nos seguintes pontos:
@@ -19,6 +22,7 @@ O Grupo 6 utilizará uma abordagem metodológica que engloba pesquisa documental
 ---
 ### Contribuição
  O Projeto Integrador do Grupo 6 visa contribuir significativamente para o aprimoramento da gestão de custos de transporte na Embraer, proporcionando insights valiosos que podem impactar positivamente a eficiência logística e a competitividade da empresa.
+
 ---
 
 ### Contato
