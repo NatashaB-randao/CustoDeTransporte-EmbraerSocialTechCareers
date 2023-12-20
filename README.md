@@ -1,4 +1,4 @@
-# Embraer Social Tech Careers ✈️
+# Embraer Social Tech Careers✈️
 
 Bem-vindo(a) ao repositório do Embraer Social Tech Careers, um programa inovador de aceleração de carreiras em tecnologia dedicado exclusivamente às mulheres neste ano. Desenvolvido pela Embraer, o programa tem como objetivo criar um ambiente inclusivo, promovendo a diversidade de pensamento e o diálogo construtivo.
 
