@@ -16,10 +16,11 @@ O Grupo 6 utilizará uma abordagem metodológica que engloba pesquisa documental
  - Identificação de Custos: Levantamento detalhado dos custos associados ao transporte;
  - Mapeamento do Cenário Atual: Compreensão do cenário logístico atual da Embraer relacionados aos custos de transporte;
  - Sugestão de Plano de Atuação: Com base nos resultados obtidos, o grupo elaborará um plano estratégico para otimizar os custos de transporte na Embraer. Isso incluirá recomendações para melhorias na eficiência operacional, escolha de modais mais econômicos.
+---
 
- ### Contribuição
+### Contribuição
  O Projeto Integrador do Grupo 6 visa contribuir significativamente para o aprimoramento da gestão de custos de transporte na Embraer, proporcionando insights valiosos que podem impactar positivamente a eficiência logística e a competitividade da empresa.
-
+---
 ### Contato
 Para mais informações sobre este projeto, entre em contato com o Grupo 6:
  - [@NatashaB-randao](https://github.com/NatashaB-randao)
