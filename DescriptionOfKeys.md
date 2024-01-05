@@ -115,4 +115,4 @@ Neste exemplo, o CartaoFidelidade é escolhido como chave primária, enquanto Em
 
 
 Esses conceitos de chave são fundamentais para garantir a integridade dos dados e estabelecer relacionamentos entre tabelas em um banco de dados relacional.
-```
+
