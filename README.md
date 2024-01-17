@@ -11,7 +11,7 @@ O Embraer Social Tech Careers visa impulsionar carreiras em tecnologia, proporci
 # Tema: Análise dos Custos de Transporte na Embraer 
 
 ### Desafio 
-O desafio proposto para o Projeto Integrador do Grupo 6 consiste em realizar uma análise aprofundada dos custos de transporte na Embraer, focando na área de logística e supply chain. Este estudo abordará os custos associados ao transporte de mercadorias, podendo englobando modalidades como transporte terrestre, marítimo e aéreo.
+O desafio proposto para o Projeto Integrador do Grupo 6 consiste em realizar uma análise aprofundada dos custos de transporte na Embraer, focando na área de logística e supply chain. Este estudo abordará os custos associados ao transporte de mercadorias, podendo englobar modalidades como transporte terrestre, marítimo e aéreo.
 
 ---
 ### Metodologia
