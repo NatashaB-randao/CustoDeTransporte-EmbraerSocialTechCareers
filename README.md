@@ -29,7 +29,7 @@ O Grupo 6 utilizará uma abordagem metodológica que engloba pesquisa documental
 Para mais informações sobre este projeto, entre em contato com as integrantes do Grupo 6:
  - [Isabella Qualharello](https://www.linkedin.com/in/isabella-qualharello)
  - [Giovanna de Luca](https://www.linkedin.com/in/giovannadelucasilva)
- - [Natasha Brandão](https://www.linkedin.com/in/natasha-brandão)(imagens/natasha.png)
+ - [Natasha Brandão](https://www.linkedin.com/in/natasha-brandão)(Pictures/natasha.png)
  - [Tahine Santos](https://www.linkedin.com/in/tahinesantos)
  - [Thamiris Neves](https://www.linkedin.com/in/thamiris-neves)
 
