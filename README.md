@@ -15,7 +15,7 @@ O desafio proposto para o Projeto Integrador do Grupo 6 consiste em realizar uma
 
 ---
 ### Metodologia
-O Grupo 6 utilizará uma abordagem metodológica que engloba pesquisa documental, entrevistas com profissionais da área logística da Embraer e análise de dados históricos de transporte. A coleta de informações se concentrará nos seguintes pontos:
+O Grupo 6 utilizará uma abordagem metodológica que engloba pesquisa documental e análise de dados históricos de transporte. A coleta de informações se concentrará nos seguintes pontos:
  - Identificação de Custos: Levantamento detalhado dos custos associados ao transporte;
  - Mapeamento do Cenário Atual: Compreensão do cenário logístico atual da Embraer relacionados aos custos de transporte;
  - Sugestão de Plano de Atuação: Com base nos resultados obtidos, o grupo elaborará um plano estratégico para otimizar os custos de transporte na Embraer. Isso incluirá recomendações para melhorias na eficiência operacional, escolha de modais mais econômicos.
